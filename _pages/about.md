@@ -6,8 +6,8 @@ category: Jekyll
 layout: post
 ---
 
-#About
+# About
 
-##Curating knowledge from various topics
+## Curating knowledge from various topics
 
 Copyright Hohastudios 2024
