@@ -1,7 +1,6 @@
 ---
 title: About
 author: Hohastudios
-date: 2024-03-03
 layout: post
 ---
 
