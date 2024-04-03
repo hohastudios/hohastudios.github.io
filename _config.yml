@@ -3,7 +3,6 @@ title:            Hohastudios
 longtitle:        Curating Knowledge
 
 url:              'https://hohastudios.github.io'
-baseurl:          '/-'
 
 remote_theme:     sighingnow/jekyll-gitbook
 
