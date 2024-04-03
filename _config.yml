@@ -2,10 +2,10 @@
 title:            Hohastudios
 longtitle:        Curating Knowledge
 
-remote_theme:     sighingnow/jekyll-gitbook
-
 url:              'https://hohastudios.github.io'
-baseurl:          '/'
+baseurl:          '/-'
+
+remote_theme:     sighingnow/jekyll-gitbook
 
 toc:
     enabled: true
