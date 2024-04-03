@@ -38,3 +38,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+incremental:      true
+
+plugins:
+  - jekyll-feed
+  - jekyll-readme-index
+  - jemoji
