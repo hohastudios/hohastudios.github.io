@@ -4,7 +4,7 @@ longtitle:        Curating Knowledge
 
 remote_theme:     sighingnow/jekyll-gitbook
 
-url:              'https://hohastudios.github.io'
+url:              'https://localhost:4000'
 baseurl:          ''
 
 toc:
@@ -38,7 +38,3 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-plugins:
-  - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
