@@ -4,5 +4,5 @@
   date: 2024-04-04
   category: Jekyll
   layout: post
-+ cover: /assets/header/angle-bg.png.jpg
++ cover: /assets/header/angle-bg.png
  ---
