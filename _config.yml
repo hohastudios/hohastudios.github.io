@@ -38,7 +38,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-incremental:      true
+incremental:      false
 
 plugins:
   - jekyll-feed
