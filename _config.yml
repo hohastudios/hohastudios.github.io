@@ -4,8 +4,6 @@ longtitle:        Curating Knowledge
 
 remote_theme:     sighingnow/jekyll-gitbook
 
-url:              'https://hohastudios.github.io/'
-
 toc:
     enabled: true
     h_min: 1
