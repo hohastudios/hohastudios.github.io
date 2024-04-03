@@ -6,4 +6,8 @@ category: Jekyll
 layout: post
 ---
 
-This is an about page.
+#About
+
+##Curating knowledge from various topics
+
+Copyright Hohastudios 2024
