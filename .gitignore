@@ -3,5 +3,6 @@ _draft/
 _includes/
 .jekyll-cache/
 .vs/
+.jekyll-metadata
 Gemfile*
 assets/search_plus_index.json
