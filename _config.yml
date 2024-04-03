@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Hohastudios homepage
-description: Curating knowledge
+# Configurations
+title:            Hohastudios
+longtitle:        Curating Knowledge
+
+remote_theme:     sighingnow/jekyll-gitbook
