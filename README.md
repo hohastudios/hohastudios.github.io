@@ -1,6 +1,6 @@
 ---
 layout: home
-cover: https://hohastudios.github.io/assets/header/angle-bg.png
+cover: https://hohastudios.github.io/assets/header/header.png
 permalink: /
 ---
 
