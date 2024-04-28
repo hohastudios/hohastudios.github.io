@@ -23,10 +23,12 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 #### Tablet
 
 ##### Free
+    Clavicula : Open source Sdf modeller #SDF
 
 ##### Paid
-    Nomad Sculpt : Awesome fast and popular sculpting app by Hexanomad (3D Sculpting)
-    Valence 3D : Polygonl modeller for iPad
+    DGArt : Polgonal modeller for ipad #PolygonalModeller
+    Nomad Sculpt : Awesome fast and popular sculpting app by Hexanomad #3DSculpting
+    Valence 3D : Polygonal modeller for iPad
 
 ### Rigging
 
