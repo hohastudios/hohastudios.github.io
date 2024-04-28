@@ -37,6 +37,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 #### Desktop / Web
 ##### Free
+
 |Accurig | AI autorigging |
 |Akeytsu | Free Rigging |
 |Heat.tech | Mocap library |
@@ -46,11 +47,13 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 ## AI
 
 ### Art and Graphics
+
 |Stable Diffusion by Stability | GenAi model for art | #model|
 	
 #### Desktop
 
 #### Free
+
 |ComfyUI | Node based AI art generation tool |
     
 
