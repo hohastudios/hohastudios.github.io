@@ -139,14 +139,14 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
     }
 
     // Return the correct id for a theme config key
-    // Default to first theme
+    // Default to dark theme
     function getThemeId(configName) {
         // Search for plugin configured theme
         var configTheme = $.grep(THEMES, function(theme) {
             return theme.config == configName;
         })[0];
         // Fallback to default theme
-        return (!!configTheme)? configTheme.id : 0;
+        return (!!configTheme)? configTheme.id : 2;
     }
 
     function update() {
