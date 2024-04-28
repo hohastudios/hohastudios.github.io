@@ -46,6 +46,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 	Stable Diffusion by Stability (model)
 	
 #### Desktop
+
 #### Free
     ComfyUI : Node based AI art generation tool
     
@@ -55,13 +56,16 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 ## Illustartion
 
 ## Web Development
+
 ### Javascript
+
 #### Frameworks
     
     Nextjs : ServerSide Rendering for react
     Reactjs : Client side rendering
 
 #### UI Components
+
 ### Free/Opensource
 
     Chakra
