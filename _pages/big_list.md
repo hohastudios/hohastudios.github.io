@@ -63,6 +63,9 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 #### UI Components
 ### Free/Opensource
+
     Chakra
+
 ### Visual Editors
+
 |OpenChakra | [Try it](https://v1.openchakra.app/) |
