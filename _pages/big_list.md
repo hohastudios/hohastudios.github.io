@@ -6,7 +6,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ## 3D
 
-###General Modelling
+### General Modelling
 #### Desktop
 ##### Free
 
@@ -15,11 +15,11 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ##### Paid
 
-####Paid
+#### Paid
 
 ## AI
 
-###Art and Graphics
+### Art and Graphics
 
-###Chat / LLM
+### Chat / LLM
 
