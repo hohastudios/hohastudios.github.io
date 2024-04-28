@@ -1,3 +1,10 @@
+---
+title: Product Knowledge
+author: Hohastudios
+layout: post
+---
+
+
 # Big Categorised List of Product Knowledge
 Mainstream apps may not be covered here as everyone knows about them, and aren't usually much of interest
 
