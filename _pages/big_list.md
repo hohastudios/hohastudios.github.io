@@ -15,11 +15,15 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ### General 3D Modelling
 #### Desktop
+
+|List of sdf products | [BlenderArtistsLink](https://blenderartists.org/t/the-big-magicacsg-and-sdf-modeling-thread/1293075/1)|
+
 ##### Free
 
 |Adobe Project Neo | Adobe's open beta web based SDF and vector converter | #SDF #Vector|
 |Blender | The famous open source 3D and 2D polygonal modelling, sculpting, animation and rendering package |
 |Clavicula | Open source Sdf modeller | #SDF |
+|Clayit | | #SDF |
 |MagicaCSG | Magica's sdf modeler | #SDF |
 |Womp 3D | Web based ssf modeler | #SDF |
 
