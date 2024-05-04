@@ -35,9 +35,9 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ##### Paid
 
-|DGArt | Polgonal modeller for ipad #PolygonalModeller||
+|DGArt | Polgonal modeller for ipad | #PolygonalModeller||
 |Nomad Sculpt | Awesome fast and popular sculpting app by Hexanomad| #3DSculpting|
-|Valence 3D : Polygonal modeller for iPad||
+|Valence 3D | Polygonal modeller for iPad||
 
 ### Rigging
 
@@ -65,7 +65,19 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ### Chat / LLM
 
-## Illustartion
+## Graphics and Design
+
+### Photoeditor
+
+#### Desktop
+
+#### Free
+
+| Photoscape X| free photo editor| [Home Page](http://x.photoscape.org)|
+
+#### Tablet
+
+## Illustration
 
 ## Web Development
 
