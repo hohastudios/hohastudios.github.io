@@ -17,15 +17,21 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 #### Desktop
 ##### Free
 
+|Adobe Project Neo | Adobe's open beta web based SDF and vector converter | #SDF #Vector|
 |Blender | The famous open source 3D and 2D polygonal modelling, sculpting, animation and rendering package |
+|Clavicula | Open source Sdf modeller | #SDF |
+|MagicaCSG | Magica's sdf modeler | #SDF |
+|Womp 3D | Web based ssf modeler | #SDF |
+
 
 ##### Paid
+
+|Plasticity | Paid SDF modeler | #SDF |
 
 #### Tablet
 
 ##### Free
 
-|Clavicula | Open source Sdf modeller | #SDF |
 
 ##### Paid
 
