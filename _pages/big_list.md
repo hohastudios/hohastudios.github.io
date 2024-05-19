@@ -85,19 +85,26 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ## Web Development
 
-### Javascript
-
-#### Frameworks
+### Frameworks
     
 |Nextjs | ServerSide Rendering for react |
 |Reactjs | Client side rendering |
 
-#### UI Components
+### UI Components
 
-### Free/Opensource
+#### Free/Opensource
 
-|Chakra | react ui component library |
+|Apache echarts | visualisation library | #charting|
+|Chakra | React ui component library | |
+|Cubejs | Semantic layer for data analytics | |
+|D3js | Popular charting library |
+|Recharts | Charting library based on d3 for react |#charting |
 
-### Visual Editors
 
+
+### Lowcode / Visual Editors
+
+|Appsmith | low code dashboard creator |
+|Apache Superset | low code analytics dashboard builder |
 |OpenChakra | [Try it](https://v1.openchakra.app/) |
+|Poli | simple low code dashboard builder, good for educational purpose no longer maintained |
