@@ -83,6 +83,13 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ## Illustration
 
+## Miscellaneous Utilities
+
+### Windows
+
+#### Free
+|GestureSign| custom geatures to make tablets more touchscreen friendly in Windows| |
+
 ## Web Development
 
 ### Frameworks
