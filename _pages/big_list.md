@@ -89,6 +89,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 #### Free
 |GestureSign| custom geatures to make tablets more touchscreen friendly in Windows| |
+|Ventoy| usb boot that allows booting linux from usb stick easily ||
 
 ## Web Development
 
