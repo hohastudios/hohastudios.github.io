@@ -16,10 +16,14 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 ### General 3D Modelling
 #### Desktop
 
+|App| Description|
+|---|---|
 |List of sdf products | [BlenderArtistsLink](https://blenderartists.org/t/the-big-magicacsg-and-sdf-modeling-thread/1293075/1)|
 
 ##### Free
 
+|App| Description|Comments|
+|---|---|---|
 |Adobe Project Neo | Adobe's open beta web based SDF and vector converter | #SDF #Vector|
 |Blender | The famous open source 3D and 2D polygonal modelling, sculpting, animation and rendering package |
 |Clavicula | Open source Sdf modeller | #SDF |
@@ -30,6 +34,8 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ##### Paid
 
+|App| Description|Comments|
+|---|---|---|
 |Plasticity | Paid SDF modeler | #SDF |
 
 #### Tablet
@@ -39,6 +45,8 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ##### Paid
 
+|App| Description|Comments|
+|---|---|---|
 |DGArt | Polgonal modeller for ipad | #PolygonalModeller||
 |Nomad Sculpt | Awesome fast and popular sculpting app by Hexanomad| #3DSculpting|
 |Valence 3D | Polygonal modeller for iPad||
@@ -48,6 +56,8 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 #### Desktop / Web
 ##### Free
 
+|App| Description|
+|---|---|
 |Accurig | AI autorigging |
 |Akeytsu | Free Rigging |
 |Heat.tech | Mocap library |
@@ -58,12 +68,16 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ### Art and Graphics
 
+|App| Description|Comments|
+|---|---|---|
 |Stable Diffusion by Stability | GenAi model for art | #model|
 	
 #### Desktop
 
 #### Free
 
+|App| Description|
+|---|---|
 |ComfyUI | Node based AI art generation tool |
     
 
@@ -77,6 +91,8 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 #### Free
 
+|App| Description|Comments|
+|---|---|---|
 | Photoscape X| free photo editor| [Home Page](http://x.photoscape.org)|
 
 #### Tablet
@@ -89,6 +105,8 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 #### Free
 
+|App| Description|Comments|
+|---|---|---|
 |GestureSign | custom geatures to make tablets more touchscreen friendly in Windows ||
 |Ventoy | usb boot that allows booting linux from usb stick easily ||
 |Tablet Friend | Customizable tablet sidebar | [Tablet Friend](https://github.com/Martenfur/TabletFriend)|
@@ -96,7 +114,9 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 ## Web Development
 
 ### Frameworks
-    
+
+|App| Description|
+|---|---|
 |Nextjs | ServerSide Rendering for react |
 |Reactjs | Client side rendering |
 
@@ -105,6 +125,8 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 #### Free/Opensource
 
+|App| Description|Comments|
+|---|---|---|
 |Apache echarts | visualisation library | #charting|
 |Chakra | React ui component library | |
 |Cubejs | Semantic layer for data analytics | |
@@ -119,6 +141,8 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 ### Lowcode / Visual Editors
 
+|App| Description|
+|---|---|
 |Appsmith | low code dashboard creator |
 |Apache Superset | low code analytics dashboard builder |
 |OpenChakra | [Try it](https://v1.openchakra.app/) |
