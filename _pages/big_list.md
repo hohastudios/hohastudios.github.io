@@ -100,6 +100,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 |Nextjs | ServerSide Rendering for react |
 |Reactjs | Client side rendering |
 
+
 ### UI Components
 
 #### Free/Opensource
@@ -108,8 +109,10 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 |Chakra | React ui component library | |
 |Cubejs | Semantic layer for data analytics | |
 |D3js | Popular charting library ||
+|Mantine | React typescript component library ||
 |Perspective | finos data viz library||
 |Recharts | Charting library based on d3 for react |#charting |
+|Shadcn| Radix based ui component library ||
 
 
 
