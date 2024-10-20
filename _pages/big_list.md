@@ -1,4 +1,4 @@
-.---
+---
 title: Product Knowledge
 author: Hohastudios
 layout: post
@@ -91,7 +91,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 |GestureSign | custom geatures to make tablets more touchscreen friendly in Windows ||
 |Ventoy | usb boot that allows booting linux from usb stick easily ||
-|Tablet Friend | Customizable tablet sidebar | [Tablet Friend](https://github.com/Martenfur/TabletFriend) |
+|Tablet Friend | Customizable tablet sidebar | [Tablet Friend](https://github.com/Martenfur/TabletFriend)|
 
 ## Web Development
 
