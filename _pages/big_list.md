@@ -109,6 +109,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 |Chakra | React ui component library | |
 |Cubejs | Semantic layer for data analytics | |
 |D3js | Popular charting library ||
+|litegraph.js | Vanilla js node editor component library ||
 |Mantine | React typescript component library ||
 |Perspective | finos data viz library||
 |Recharts | Charting library based on d3 for react |#charting |
