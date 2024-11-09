@@ -103,7 +103,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 |App| Description|Comments|
 |---|---|---|
-| Mebius box | free fx editor | [Mebius Box] (https://mebiusbox.github.io/contents/EffectTextureMaker/)|
+| Mebius box | free fx editor | [Mebius Box](https://mebiusbox.github.io/contents/EffectTextureMaker/)|
 
 
 ## Miscellaneous Utilities
