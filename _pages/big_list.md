@@ -71,6 +71,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 |App| Description|Comments|
 |---|---|---|
 |Stable Diffusion by Stability | GenAi model for art | #model|
+|Rihan cgi| https://rihan-cgi.web.app/index.html | #textures |
 	
 #### Desktop
 
