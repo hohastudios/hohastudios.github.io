@@ -19,7 +19,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 |App| Description|
 |---|---|
 |List of sdf products | [BlenderArtistsLink](https://blenderartists.org/t/the-big-magicacsg-and-sdf-modeling-thread/1293075/1)|
-
+|Free low poly resource | [poly pizza](https://poly.pizza)|
 ##### Free
 
 |App| Description|Comments|
