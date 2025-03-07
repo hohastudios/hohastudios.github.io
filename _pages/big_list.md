@@ -106,6 +106,11 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 |---|---|---|
 | Mebius box | free fx editor | [Mebius Box](https://mebiusbox.github.io/contents/EffectTextureMaker/)|
 
+### React Native
+
+|App| Description|Comments|
+|---|---|---|
+| RN Gesture Handlers | RN Gestures | https://docs.swmansion.com/react-native-gesture-handler/)|
 
 ## Miscellaneous Utilities
 
