@@ -110,7 +110,7 @@ Mainstream apps may not be covered here as everyone knows about them, and aren't
 
 |App| Description|Comments|
 |---|---|---|
-| RN Gesture Handlers | RN Gestures | https://docs.swmansion.com/react-native-gesture-handler/)|
+| RN Gesture Handlers | RN Gestures | [Gesture Handlers](https://docs.swmansion.com/react-native-gesture-handler/)|
 
 ## Miscellaneous Utilities
 
